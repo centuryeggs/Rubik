@@ -1,9 +1,8 @@
 <script setup lang="ts">
-import RubiksCube from './components/RubiksCube.vue'
 </script>
 
 <template>
-  <RubiksCube />
+  <div>Rubiks cube</div>
 </template>
 
 <style scoped>
