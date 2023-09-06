@@ -17,5 +17,8 @@
     "json",
     "jsonc",
     "yaml"
-  ]
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
 }
